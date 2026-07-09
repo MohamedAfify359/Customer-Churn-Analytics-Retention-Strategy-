@@ -1,4 +1,4 @@
-# Customer Churn Prediction and Retention Analysis
+# Customer Churn Analytics & Retention Strategy 
 
 ## Project Overview
 
